@@ -27,6 +27,7 @@ function populateFigures() {
     }
   
   }//end of populateFigures()
+
   var photoOrder = [1,2,3,4,5];
 var figureCount = 3;
 //var autoAdvance = setInterval(rightAdvance,5000);
